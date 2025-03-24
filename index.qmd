@@ -1,0 +1,7 @@
+---
+title: "Jean Fontalirand"
+---
+
+This is my website, which is under work. 
+
+You can find my Resume just [here](./resources/CV.pdf). 
